@@ -1,0 +1,3 @@
+1.需要填写好脚本才可以使用，本脚本适用于一些特殊的场景
+2.在Linux下使用需要有python3和安装了scapy和requests模块，在windows下使用则需要有winpcap或ncap的支持
+3.需要有一个php服务来接收数据，需要双方都能够ping通
